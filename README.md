@@ -1,16 +1,27 @@
-Instructions
+Instructions for 9-26-13
 ============
 
 Hello Programmers! Please follow the below steps and dont bother the leads about it. (num1, no questions)
 
-  1) make sure all possible* and avalible panels are gridded (ruler and pen) and their pixel locations counted.
+if(your homework == done)
 
-  2) once the above step is DONE, FIND the code that exists to manipulate that panel and make the code work.
+{
 
-  3) if there is ABSOLUTELY NOTHING to do, go to code academy and learn HTML/CSS and JavaScript
+  0) Make sure all possible and avalible panels are gridded (ruler and pen) and their pixel locations counted.
+    - this should have been completed on tuesday, even if you werent here, ask either corey or those that were here tuesday for the product of that
+
+  1) Talk to Andy. You need to get not just the next step in the FMS, but the complete set of instructions for each of your panles.
+    - write these instrusctions down and save them
+    
+  2) Work on your panels until you are DONE and ready for lead approval, or time is up
+  
+  3) If you are stuck, ask your partner if he/she is there, then ask the people are around you, then ask the leads.
+    - if the leads cannot figure it out, THEN and ONLY THEN will the leads ask Andy.
+
+  4) If there is ABSOLUTELY NOTHING to do, go to code academy and learn HTML/CSS and JavaScript
 
       -if you have finished those move onto another language, work on long term homework, or find a way to make the FMS work go faster
   
-  4) when you have to, go home
-
-  *possible: panels that have been created and drawn and are ready to be worked on, if they arent there, dont work on them, and dont ask about them
+  5) when you have to, go home
+  
+}
