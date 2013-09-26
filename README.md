@@ -1,7 +1,7 @@
 Instructions for 9-26-13
 ============
 
-Hello Programmers! Please follow the below steps and dont bother the leads about it. (num1, no questions)
+Hello Programmers! Please follow the below steps and dont bother the leads* about it.
 
 if(your homework == done)
 
@@ -23,3 +23,8 @@ if(your homework == done)
   5) when you have to, go home
   
 }
+
+
+*Melia will be at orchestra from approximately 4:10 to 5:10, please behave and listen to Corey and Andy.
+
+    - they know where to find her if absolutely needed
