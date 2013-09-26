@@ -18,9 +18,7 @@ if(your homework == done)
   3) If you are stuck, ask your partner if he/she is there, then ask the people are around you, then ask the leads.
     - if the leads cannot figure it out, THEN and ONLY THEN will the leads ask Andy.
 
-  4) If there is ABSOLUTELY NOTHING to do, go to code academy and learn HTML/CSS and JavaScript
-
-      -if you have finished those move onto another language, work on long term homework, or find a way to make the FMS work go faster
+  4) If there is ABSOLUTELY NOTHING to do, go to code academy and learn HTML/CSS and JavaScript, or get familiar with GIT and GITHUB
   
   5) when you have to, go home
   
