@@ -20,3 +20,5 @@ if(your homework == done)
   4) when you have to, go home
   
 }
+
+*HAHA! Made you look! :P
