@@ -21,9 +21,7 @@ if(your homework == done)
   
   {
   
-  2) Melia will be back at five, and Corey is getting the file you need to work on off dave
-  
-     - in the meantime, behave, as we've told you before, this is the first year that we have had to do this, so please be patient
+  2) Melia should have stuff ready for you to try
   
   }
     
@@ -33,9 +31,4 @@ if(your homework == done)
   
 }
 
-*Melia will be back at approximately five o'clock
-
-
-COREY the file i think you re looking for is called 2013-Sample code in the bottom of the team4470_2013 file, 
-my worry now is if we can still do things without a robot. I can text during orchestra, sorry about the mess.
-I am leaving my USB in/on dave. let me know
+*HAHA made you look!
