@@ -7,7 +7,7 @@ if(your homework == done)
 
 {
 
-  1) You are split into TWO groupd, one group is working on the FMS, the other group is starting to learn C
+  1) You are split into TWO groups, one group is working on the FMS, the other group is starting to learn C
   
   if(you are working on the FMS)
   
@@ -21,7 +21,7 @@ if(your homework == done)
   
   {
   
-  2) go to the C learners file in this repository and follow those instructions in the file, good luck!
+  2) go to the C learners file in this repository and follow the instructions in the file, good luck!
   
   }
     
