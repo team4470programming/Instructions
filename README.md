@@ -21,7 +21,7 @@ if(your homework == done)
   
   {
   
-  2) go to the 
+  2) go to the C learners file in this repository and follow those instructions in the file, good luck!
   
   }
     
